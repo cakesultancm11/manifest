@@ -8,7 +8,6 @@
   <project name="cakesultancm11/sultan-kernel-celox" path="kernel/samsung/sultan-celox" remote="github" revision="cm-12.1" />
   <project name="cakesultancm11/proprietary_vendor_samsung" path="vendor/samsung" remote="github" revision="cm-11.0" />
   <project name="CyanogenMod/android_hardware_samsung" path="hardware/samsung" remote="github" revision="cm-11.0" />
-  <remove-project name="CyanogenMod/android_packages_apps_CMUpdater" path="packages/apps/CMUpdater" />
   <remove-project groups="darwin" name="platform/prebuilts/clang/darwin-x86/3.1" path="prebuilts/clang/darwin-x86/3.1" remote="aosp" revision="refs/tags/android-4.4.2_r2" />
   <remove-project groups="darwin" name="platform/prebuilts/clang/darwin-x86/3.2" path="prebuilts/clang/darwin-x86/3.2" remote="aosp" revision="refs/tags/android-4.4.2_r2" />
   <remove-project groups="darwin,arm" name="platform/prebuilts/gcc/darwin-x86/arm/arm-eabi-4.6" path="prebuilts/gcc/darwin-x86/arm/arm-eabi-4.6" remote="aosp" revision="refs/tags/android-4.4.2_r2" />
