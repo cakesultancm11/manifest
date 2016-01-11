@@ -3,9 +3,12 @@
   <project name="CyanogenMod/android_device_samsung_qcom-common" path="device/samsung/qcom-common" remote="github" revision="cm-11.0" />
   <project name="cakesultancm11/android_device_samsung_msm8660-common" path="device/samsung/msm8660-common" remote="github" revision="cm-11.0" />
   <project name="cakesultancm11/android_device_samsung_celox-common" path="device/samsung/celox-common" remote="github" revision="cm-11.0" />
+  <project name="cakesultancm11/android_device_samsung_quincy-common" path="device/samsung/quincy-common" remote="github" revision="cm-11.0" />
   <project name="cakesultancm11/android_device_samsung_hercules" path="device/samsung/hercules" remote="github" revision="cm-11.0" />
   <project name="cakesultancm11/android_device_samsung_skyrocket" path="device/samsung/skyrocket" remote="github" revision="cm-11.0" />
-  <project name="cakesultancm11/sultan-kernel-celox" path="kernel/samsung/sultan-celox" remote="github" revision="cm-12.1" />
+  <project name="cakesultancm11/android_device_samsung_quincyatt" path="device/samsung/quincyatt" remote="github" revision="cm-11.0" />
+  <project name="cakesultancm11/android_device_samsung_quincytmo" path="device/samsung/quincytmo" remote="github" revision="cm-11.0" />
+  <project name="cakesultancm11/android_kernel_samsung_msm8660-common" path="kernel/samsung/msm8660-common" remote="github" revision="cm-12.1" />
   <project name="cakesultancm11/proprietary_vendor_samsung" path="vendor/samsung" remote="github" revision="cm-11.0" />
   <project name="CyanogenMod/android_hardware_samsung" path="hardware/samsung" remote="github" revision="cm-11.0" />
   <remove-project groups="darwin" name="platform/prebuilts/clang/darwin-x86/3.1" path="prebuilts/clang/darwin-x86/3.1" remote="aosp" revision="refs/tags/android-4.4.2_r2" />
